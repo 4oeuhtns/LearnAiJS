@@ -1,7 +1,5 @@
 # LearnAI.js - Grade 11 Computer Science Final Project
 
-![LearnAI.js Logo](learnai_logo.png)
-
 ## Introduction
 
 Welcome to LearnAI.js, a Grade 11 Computer Science final project aimed at teaching the fundamentals of Artificial Intelligence (AI) at a basic level, along with an introduction to basic calculus concepts. This project is designed to provide a hands-on learning experience for students interested in the exciting world of AI and its underlying principles.
